@@ -37,12 +37,12 @@ function controlStructures(element) {
   // kod för att visa vad du lärt dig om kontrollstrukturer
   // if och loopar
 
-  if (smulan < 8) {
+  if (smulan < 9) {
     Text = "hon är fortfarande inte jätte gamal"
   } else {
     Text = "hon kommer ju dö snart hon är så gamal"
   }
-  if (nisse < 4) {
+  if (nisse < 5) {
     Text = "bäbis nisse"
   } else {
     Text = "sen när blev han en riktig katt"
@@ -52,12 +52,14 @@ function controlStructures(element) {
 function arraysAndObjects(element) {
   // kod för att visa vad du lärt dig om arrays och objekt
   console.log(['arrays', { and: 'objects' }])
+  
 }
 
 function domAndEvents(element) {
   // kod för att visa vad du lärt dig om DOM och events
   // använd med html och listeners
   console.log(element, 'lyssna efter event för att ändra element')
+  
 }
 
 function domManipulation(element) {
