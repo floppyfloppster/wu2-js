@@ -13,7 +13,16 @@ var catName2 = "nisse"
   let smulan = "8"
   let nisse = "4"
   controlStructures(element)
-
+if (smulan > 8) {
+    Text = "hon är fortfarande inte jätte gamal"
+} else {
+  Text = "hon kommer ju dö snart hon är så gamal"
+}
+if (nisse > 4) {
+Text = "bäbis nisse"
+} else {
+  Text = "sen när blev han en riktig katt"
+}
   arraysAndObjects(element)
 
   domAndEvents(element)
