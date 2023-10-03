@@ -51,19 +51,19 @@ function controlStructures(element) {
 
 function arraysAndObjects(element) {
   // kod för att visa vad du lärt dig om arrays och objekt
-  console.log(['arrays', { and: 'objects' }])
-  
+  const katter = (("1,2,3,4,5,6,7,8,9,"))
 }
 
 function domAndEvents(element) {
   // kod för att visa vad du lärt dig om DOM och events
   // använd med html och listeners
-  console.log(element, 'lyssna efter event för att ändra element')
-  
+  element.addEventListener("smulan är bäst i hela världen", function(){alert ("guys ni måste fatta");})
+
 }
 
 function domManipulation(element) {
   // kod för att visa vad du lärt dig om DOM-manipulation
   // skapa element och lägga till och ta bort
   element.innerHTML = 'dom manipulation, ändra och lägg till element'
+  
 }
