@@ -8,8 +8,9 @@ export function setupPractice (element) {
   // Samtliga delar finns förklarade/beskrivna https://webbutveckling.jensa.dev/tekniker/javascript/
   varsAndTypes(element)
 var catName = "smulan"
+var catName2 = "nisse"
   operators(element)
-
+  
   controlStructures(element)
 
   arraysAndObjects(element)
