@@ -1,20 +1,25 @@
 # PM Webbprojekt
-
-Författare och datum.
 Nova Lindberg 3/10/2023
 
 ## Vad
+Jag har arbetat med:
+Vars
+Operatorer
+If satser
+Const
+Lista
+Eventlistener
 
-Här beskriver du kortfattat vad du har arbetat med.
+i projketet vi har fått
+
 
 ## Hur
 
-Här beskriver du hur du har arbetat med projektet. Vilka verktyg och metoder har du använt.
+Jag har skrivit kod sen använt mig av det jag skrev i nästa steg, vertygen var det jag själv vet och koden jag skrivit, har använt mig av javascript,html,vite,css
 
-## Positiva erfarenheter
+## Positiva erfarenheter¨
 
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du upprepa framgångarna.
+Har utvecklat och blivit lite bättre på javascript och des grunder
 
 ## Negativa erfarenheter
-
-Här beskriver du det som du anser har gått mindre bra med ditt projekt och analyserar hur du kan undvika detta i framtida projekt.
+Kund inte få "smulan" definerad och förstod inte vad jag skulle göra på DOMmanipulation
