@@ -10,7 +10,8 @@ export function setupPractice (element) {
 var catName = "smulan"
 var catName2 = "nisse"
   operators(element)
-  
+  let smulan = "8"
+  let nisse = "4"
   controlStructures(element)
 
   arraysAndObjects(element)
