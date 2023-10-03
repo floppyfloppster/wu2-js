@@ -7,11 +7,17 @@ export function setupPractice (element) {
 
   // Samtliga delar finns förklarade/beskrivna https://webbutveckling.jensa.dev/tekniker/javascript/
   varsAndTypes(element)
+var catName = "smulan"
   operators(element)
+
   controlStructures(element)
+
   arraysAndObjects(element)
+
   domAndEvents(element)
+
   domManipulation(element)
+
 }
 
 // du kan använda kontrollstrukturer och variabler etc. i 
