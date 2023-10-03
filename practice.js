@@ -10,60 +10,58 @@ export function setupPractice(element) {
   operators(element)
   controlStructures(element)
   arraysAndObjects(element)
-  
   domAndEvents(element)
-
   domManipulation(element)
 
-}
 
-// du kan använda kontrollstrukturer och variabler etc. i 
-// andra moment än där funktionen heter så såklart
-function varsAndTypes(element) {
-  // kod för att visa vad du lärt dig om variabler och typer
-  var catName = "smulan"
-  var catName2 = "nisse"
- 
-}
+  // du kan använda kontrollstrukturer och variabler etc. i 
+  // andra moment än där funktionen heter så såklart
+  function varsAndTypes(element) {
+    // kod för att visa vad du lärt dig om variabler och typer
+    var catName = "smulan"
+    var catName2 = "nisse"
 
-function operators(element) {
-  let smulan = "8"
-  let nisse = "4"
-  // kod för att visa vad du lärt dig om operatorer
- 
-}
-
-function controlStructures(element) {
-  // kod för att visa vad du lärt dig om kontrollstrukturer
-  // if och loopar
-
-  if (smulan < 9) {
-    Text = "hon är fortfarande inte jätte gamal"
-  } else {
-    Text = "hon kommer ju dö snart hon är så gamal"
   }
-  if (nisse < 5) {
-    Text = "bäbis nisse"
-  } else {
-    Text = "sen när blev han en riktig katt"
+
+  function operators(element) {
+    let smulan = "8"
+    let nisse = "4"
+    // kod för att visa vad du lärt dig om operatorer
+
   }
-}
 
-function arraysAndObjects(element) {
-  // kod för att visa vad du lärt dig om arrays och objekt
-  const katter = (("1,2,3,4,5,6,7,8,9,"))
-}
+  function controlStructures(element) {
+    // kod för att visa vad du lärt dig om kontrollstrukturer
+    // if och loopar
 
-function domAndEvents(element) {
-  // kod för att visa vad du lärt dig om DOM och events
-  // använd med html och listeners
-  element.addEventListener("smulan är bäst i hela världen", function(){alert ("guys ni måste fatta");})
+    if (smulan < 9) {
+      Text = "hon är fortfarande inte jätte gamal"
+    } else {
+      Text = "hon kommer ju dö snart hon är så gamal"
+    }
+    if (nisse < 5) {
+      Text = "bäbis nisse"
+    } else {
+      Text = "sen när blev han en riktig katt"
+    }
+  }
 
-}
+  function arraysAndObjects(element) {
+    // kod för att visa vad du lärt dig om arrays och objekt
+    const katter = (("1,2,3,4,5,6,7,8,9,"))
+  }
 
-function domManipulation(element) {
-  // kod för att visa vad du lärt dig om DOM-manipulation
-  // skapa element och lägga till och ta bort
-  element.innerHTML = 'dom manipulation, ändra och lägg till element'
-  
+  function domAndEvents(element) {
+    // kod för att visa vad du lärt dig om DOM och events
+    // använd med html och listeners
+    element.addEventListener("smulan är bäst i hela världen", function () { alert("guys ni måste fatta"); })
+
+  }
+
+  function domManipulation(element) {
+    // kod för att visa vad du lärt dig om DOM-manipulation
+    // skapa element och lägga till och ta bort
+    //element.innerHTML = 'dom manipulation, ändra och lägg till element'
+    
+  }
 }
